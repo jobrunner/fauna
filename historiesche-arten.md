@@ -11,6 +11,46 @@ Unkritisch übernommen aus:
 Bemerkung: Die Fundangaben bei Fröhlich sind alle Samt ohne die originalen Belege unbrauchbar. "Umg. Aschaffenburg" kann irgendwo sein. Außerdem kannte Singer die Arbeit und die Tiere.
 
 
+Quelle: Singer.
+
+Rhynchitidae
+
+Nemonyx lepturoides F.
+Rhinomacer attelaboides F.
+Diodyrrhynchus austriacus Oliv.
+Lasiorrhynchites sericeus Hrbs.
+Lasiorrhynchites cavifrons Gyll.
+Lasiorrhynchites olivaceus Gyll.
+Lasiorrhynchites coeruleoceephalus Schall.
+
+Coenorrhinus nanus Payk.
+Coenorrhinus tomentosus Gyll.
+Coenorrhinus germanicus Hbst.
+Coenorrhinus aeneovirens Marsh.
+Coenorrhinus interpunctatus Steph.
+Coenorrhinus pauxillus Germ.
+Coenorrhinus aequatus L.
+
+Rhynchites pubescens F.
+Rhynchites coeruleus Deg.
+Rhynchites cupreus L.
+Rhynchites aethiops Bach.
+Rhynchites auratus Scop.
+Rhynchites Bacchus L.
+
+Byctiscus betulae L.
+Byctiscus populi L.
+
+Chonostrophus tristis F.
+
+Deporus Mannerheimi Hummel (=megacephalus Germ.)
+Deporus betulae L.
+
+Attelabidae
+
+Attelabus nitens Scop. (=curculionides L.)
+
+Apoderus coryli L.
 
 
 
