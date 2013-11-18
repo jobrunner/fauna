@@ -52,6 +52,117 @@ Attelabus nitens Scop. (=curculionides L.)
 
 Apoderus coryli L.
 
+Apionidae
+
+Apion (Pseudoperapion Wagn.) brevirostris Hbst.
+
+Apion (Perapion Wagn.) violaceum Kirby.
+Apion (Perapion Wagn.) marchicum Hbst.
+Apion (Perapion Wagn.) affine Kirby.
+Apion (Perapion Wagn.) sedi Germ.
+Apion (Perapion Wagn.) curtirostre Germ.
+
+Apion (Pseudostenapion Wagn.) simum Germ.
+Apion (Phrissotrictum Schy.) rugicolle Germ.
+Apion (Pseudapion Schy.) malvae F.
+Apion (Pseudapion Schy.) rufirostre F.
+Apion (Aspidapion Schy.) aeneum F.
+Apion (Aspidapion Schy.) radiolus Kirby.
+Apion (Exapion Bedel) compactum Desbr.
+Apion (Exapion Bedel) genistae Kirby.
+Apion (Exapion Bedel) Formaneki Wagn. (=hungaricum Wagner)
+Apion (Exapion Bedel) difficile Hbst.
+Apion (Exapion Bedel) fuscirostre F.
+
+Apion (Erythrapion Schy.) miniatum Germ.
+Apion (Erythrapion Schy.) frumentarium F.
+Apion (Erythrapion Schy.) sanguineum Deg.
+Apion (Erythrapion Schy.) rubens Steph.
+
+Apion (Melanapion Wagner) minimum Hbst.
+
+Apion (Taenapion Wagner) urticarium Hbst.
+
+Apion (Squamapion Wagner) elongatum Germ.
+Apion (Squamapion Wagner) flavimanum Gyll.
+Apion (Squamapion Wagner) vicinum Kirby.
+Apion (Squamapion Wagner) atomarium Kirby.
+
+Apion (Catapion Schy.) seniculum Kirby.
+Apion (Catapion Schy.) pubescens Kirby.
+
+Apion (Diplapion Rttr.) confluens Kirby.
+Apion (Diplapion Rttr.) stolidum Germ.
+
+Apion (Taphrotopium Rttr.) sulcifrons Hbst.
+Apion (Ceratapion Schylks.) onopordi Kirby.
+Apion (Ceratapion Schylks.) penetrans Germ.
+Apion (Ceratapion Schylks.) carduorum Kirby.
+
+Apion (Omphalapion Schy.) laevigatum Payk.
+Apion (Omphalapion Schy.) Buddelbergi Bedel.
+Apion (Omphalapion Schy.) dispar Germ.
+Apion (Omphalapion Schy.) Hockeri Kirby.
+
+Apion (Synapion Schy.) ebeninum Kirby.
+
+Apion (Leptapion Wagn.) meliloti Kirby.
+Apion (Leptapion Wagn.) loti Kirby.
+Apion (Leptapion Wagn.) intermedium Epp.
+Apion (Leptapion Wagn.) tenue Kirby.
+
+Apion (Pirapion Rttr.) striatum Kirby.
+Apion (Pirapion Rttr.) immune Kirby.
+
+Apion Coelorhinapion Wagn.) platalea Germ.
+Apion Coelorhinapion Wagn.) Gyllenhali Kirby.
+
+Apion pisi F.
+Apion aethiops Hbst.
+
+Apion (Cynapion Wagner) columbinum Germ.
+Apion (Cynapion Wagner) Spencei Kirby.
+
+Apion (Pseudotrichapion Wagner) punctigermum Payk.
+
+Apion (Metatrichapion Wagner) reflexum Gyll.
+Apion (Metatrichapion Wagner) Curtisi Steph.
+Apion (Metatrichapion Wagner) lanigerum Germ.
+Apion (Metatrichapion Wagner) pavidum Germ.
+
+Apion (Cnemapion Schy.) vorax Hbst.
+
+Apion (Holotrichapion Wagner) ononis Kirby.
+
+Apion (Trichapion Schy.)  simile Kirby.
+
+Apion (Eurtrichapion Rtt.) viciae Payk.
+Apion (Eurtrichapion Rtt.) ervi Kirby.
+
+Apion (Neoxyatoma Bedel) craccae L.
+Apion (Neoxyatoma Bedel) cerdo Gerst.
+Apion (Neoxyatoma Bedel) pomonae F.
+Apion (Neoxyatoma Bedel) ochropus Germ.
+
+Apion (Chlorapion Wagner) virens Hbst.
+
+Apion (Pseudoprotapion Wagner) virens Hbst.
+Apion (Pseudoprotapion Wagner) elegantulum Germ.
+
+Apion (Protapion Schy.) flavipes Payk.
+Apion (Protapion Schy.) nigritarse Kirby.
+Apion (Protapion Schy.) filirostre Kirby.
+Apion (Protapion Schy.) aestivum Germ.
+Apion (Protapion Schy.) apricans Hbst.
+Apion (Protapion Schy.) varipes Germ.
+Apion (Protapion Schy.) assimile Kirby.
+Apion (Protapion Schy.) ononicola Bach.
+Apion (Protapion Schy.) dissimile Germ.
+
+
+
+
+
 
 
 
