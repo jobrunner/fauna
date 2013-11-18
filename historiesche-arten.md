@@ -13,7 +13,7 @@ Bemerkung: Die Fundangaben bei Fröhlich sind alle Samt ohne die originalen Bele
 
 Quelle: Singer (bei demselben verwendete Namen)
 
-Rhynchitidae
+### Rhynchitidae
 
 Nemonyx lepturoides F.
 Rhinomacer attelaboides F.
@@ -46,13 +46,13 @@ Chonostrophus tristis F.
 Deporus Mannerheimi Hummel (=megacephalus Germ.)
 Deporus betulae L.
 
-Attelabidae
+### Attelabidae
 
 Attelabus nitens Scop. (=curculionides L.)
 
 Apoderus coryli L.
 
-Apionidae
+### Apionidae
 
 Apion (Pseudoperapion Wagn.) brevirostris Hbst.
 
