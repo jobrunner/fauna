@@ -8,6 +8,7 @@ Unkritisch übernommen aus:
 - [ ] Elbert, 1969[^4]
 - [ ] Elbert, 1994[^5]
 
+Bemerkung: Die Fundangaben bei Fröhlich sind alle Samt ohne die originalen Belege unbrauchbar. "Umg. Aschaffenburg" kann irgendwo sein. Außerdem kannte Singer die Arbeit und die Tiere.
 
 
 
