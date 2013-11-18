@@ -1,4 +1,4 @@
-## Arteninventarisierung
+## Erste Inventarisierung der Arten im Untermaingebiet.
 
 Unkritisch übernommen aus:
 
