@@ -161,45 +161,45 @@ Apion (Protapion Schy.) dissimile Germ.
 
 
 ### Otiorhynchinae
-Otiorrhynchus laevigatus F.
-Otiorrhynchus raucus F.
-Otiorrhynchus porcatus Hbst.
-Otiorrhynchus scaber L.
-Otiorrhynchus uncinatus Germ.
-Otiorrhynchus singularis L.
-Otiorrhynchus sulcatus F.
-Otiorrhynchus fullo Schrk.
-Otiorrhynchus ovatus L.
-Otiorrhynchus ligustici L.
+#### Otiorrhynchus laevigatus F.
+#### Otiorrhynchus raucus F.
+#### Otiorrhynchus porcatus Hbst.
+#### Otiorrhynchus scaber L.
+#### Otiorrhynchus uncinatus Germ.
+#### Otiorrhynchus singularis L.
+#### Otiorrhynchus sulcatus F.
+#### Otiorrhynchus fullo Schrk.
+#### Otiorrhynchus ovatus L.
+#### Otiorrhynchus ligustici L.
 
-Peritelus hirticornis Hbst.
-Peritelus sphaeroides Germ.
+#### Peritelus hirticornis Hbst.
+#### Peritelus sphaeroides Germ.
 
-Trachyphloeus alternans Gyll.
-Trachyphloeus scabriculus L.
-Trachyphloeus spinimanus Germ.
-Trachyphloeus bioveolatus Beck. (=scaber L.)
-Trachyphloeus aristatus Gyll.
-Trachyphloeus Oliveri Bedel (=spinosus Geoze.)
+#### Trachyphloeus alternans Gyll.
+#### Trachyphloeus scabriculus L.
+#### Trachyphloeus spinimanus Germ.
+#### Trachyphloeus bioveolatus Beck. (=scaber L.)
+#### Trachyphloeus aristatus Gyll.
+#### Trachyphloeus Oliveri Bedel (=spinosus Geoze.)
 
-Mylacus rotundatus F.
+#### Mylacus rotundatus F.
 
-Omias concinnus Boh.
-Omias mollinus Boh.
+#### Omias concinnus Boh.
+#### Omias mollinus Boh.
 
-Rhinomias forticornis Boh.
+#### Rhinomias forticornis Boh.
 
-Phyllobius sinuatus F.
-Phyllobius parvulus Ol.
-Phyllobius viridiaeris Laich. (=pomonae Oliv.)
-Phyllobius oblongus L.
-Phyllobius piri Desbr.
-Phyllobius maculicornis Germ.
-Phyllobius argentatus L.
-Phyllobius betulae F.
-Phyllobius arborator Hbst.
-Phyllobius calcaratus F. (=glaucus Scop.)
-Phyllobius urticae Deg.
+#### Phyllobius sinuatus F.
+#### Phyllobius parvulus Ol.
+#### Phyllobius viridiaeris Laich. (=pomonae Oliv.)
+#### Phyllobius oblongus L.
+#### Phyllobius piri Desbr.
+#### Phyllobius maculicornis Germ.
+#### Phyllobius argentatus L.
+#### Phyllobius betulae F.
+#### Phyllobius arborator Hbst.
+#### Phyllobius calcaratus F. (=glaucus Scop.)
+#### Phyllobius urticae Deg.
 
 
 
