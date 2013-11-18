@@ -11,7 +11,7 @@ Unkritisch übernommen aus:
 Bemerkung: Die Fundangaben bei Fröhlich sind alle Samt ohne die originalen Belege unbrauchbar. "Umg. Aschaffenburg" kann irgendwo sein. Außerdem kannte Singer die Arbeit und die Tiere.
 
 
-Quelle: Singer.
+Quelle: Singer (bei demselben verwendete Namen)
 
 Rhynchitidae
 
