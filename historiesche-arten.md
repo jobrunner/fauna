@@ -35,6 +35,8 @@ Quelle: Singer (bei demselben verwendete Namen)
 #### Coenorrhinus interpunctatus Steph.
 #### Coenorrhinus pauxillus Germ.
 #### Coenorrhinus aequatus L.
+#### Coenorrhinus longiceps Thomas
++ Elbert 69
 
 #### Rhynchites pubescens F.
 #### Rhynchites coeruleus Deg.
@@ -165,6 +167,13 @@ Quelle: Singer (bei demselben verwendete Namen)
 #### Apion (Protapion Schy.) assimile Kirby.
 #### Apion (Protapion Schy.) ononicola Bach.
 #### Apion (Protapion Schy.) dissimile Germ.
+#### Apion cruentatum Walt.
+Elbert 69 (Dö)
+#### Apion curtisi Steph.
+Elbert 69 (S)!
+#### Apion lanigerum Germ.
+Elbert 69 (S)!
+
 
 
 ### Otiorrhynchinae
@@ -179,6 +188,12 @@ Quelle: Singer (bei demselben verwendete Namen)
 #### Otiorrhynchus fullo Schrk.
 #### Otiorrhynchus ovatus L.
 #### Otiorrhynchus ligustici L.
+#### Otiorrhynchus laevigatus F
+Elbert 69 (S)! Wo hat Elbert falsch (nur Name, Tier ja) abgeschrieben?
+
+#### Otiorryhnchus subdentatus Bach.
+Elbert 69 (S)!
+
 
 #### Peritelus hirticornis Hbst.
 #### Peritelus sphaeroides Germ.
@@ -191,6 +206,8 @@ Quelle: Singer (bei demselben verwendete Namen)
 #### Trachyphloeus Oliveri Bedel (=spinosus Geoze.)
 
 #### Mylacus rotundatus F.
+Elbert 69 fügt ihn als Mylacus rotundatum F. (Ser, Dö, S) hinzu
+
 
 #### Omias concinnus Boh.
 #### Omias mollinus Boh.
