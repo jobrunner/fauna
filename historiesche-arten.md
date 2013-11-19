@@ -72,11 +72,15 @@ Quelle: Singer (bei demselben verwendete Namen)
 #### Apion (Perapion Wagn.) curtirostre Germ.
 
 #### Apion (Pseudostenapion Wagn.) simum Germ.
+
 #### Apion (Phrissotrictum Schy.) rugicolle Germ.
+
 #### Apion (Pseudapion Schy.) malvae F.
 #### Apion (Pseudapion Schy.) rufirostre F.
+
 #### Apion (Aspidapion Schy.) aeneum F.
 #### Apion (Aspidapion Schy.) radiolus Kirby.
+
 #### Apion (Exapion Bedel) compactum Desbr.
 #### Apion (Exapion Bedel) genistae Kirby.
 #### Apion (Exapion Bedel) Formaneki Wagn. (=hungaricum Wagner)
@@ -97,6 +101,9 @@ Quelle: Singer (bei demselben verwendete Namen)
 #### Apion (Squamapion Wagner) vicinum Kirby.
 #### Apion (Squamapion Wagner) atomarium Kirby.
 
+#### Squamaption origani (Planet)
+Elbert 1994
+
 #### Apion (Catapion Schy.) seniculum Kirby.
 #### Apion (Catapion Schy.) pubescens Kirby.
 
@@ -104,6 +111,7 @@ Quelle: Singer (bei demselben verwendete Namen)
 #### Apion (Diplapion Rttr.) stolidum Germ.
 
 #### Apion (Taphrotopium Rttr.) sulcifrons Hbst.
+
 #### Apion (Ceratapion Schylks.) onopordi Kirby.
 #### Apion (Ceratapion Schylks.) penetrans Germ.
 #### Apion (Ceratapion Schylks.) carduorum Kirby.
@@ -173,6 +181,32 @@ Elbert 69 (Dö)
 Elbert 1969 (S)!
 #### Apion lanigerum Germ.
 Elbert 1969 (S)!
+
+
+#### Kalcaption pallipes
+Elbert 1994
+
+#### Protapion gracilipes
+Elbert 1994
+
+#### Helianthemapiom aciculare
+Elbert 1994
+
+#### Ischnopterapion modestum
+Elbert 1994
+
+#### Holotrichapion gracilicolle
+Elbert 1994
+
+#### Cyanaption afer
+Elbert 1994
+
+#### Oxystoma subulatum
+Elbert 1994
+
+#### Eutrichapion vorax
+Elbert 1994
+
 
 
 
