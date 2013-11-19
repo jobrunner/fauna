@@ -529,203 +529,203 @@ Echinodera hypocrita Boh.
 
 
 ### Ceutorrhynchindae
-Baris artemisiae Hbst.
-Baris morio Boh.
-Baris laticollis Marsh.
-Baris cuprirostris F.
-Baris lepidii Germ.
-Baris coerulescens Scop.
-Baris fallax Bris.
-Baris picicornis Marsh.
-Baris chlorizans Germ.
+#### Baris artemisiae Hbst.
+#### Baris morio Boh.
+#### Baris laticollis Marsh.
+#### Baris cuprirostris F.
+#### Baris lepidii Germ.
+#### Baris coerulescens Scop.
+#### Baris fallax Bris.
+#### Baris picicornis Marsh.
+#### Baris chlorizans Germ.
 
-Limnobaris T-album L.
-Limnobaris philistrata Steph.
-Limnobaris Reitteri Munst.
+#### Limnobaris T-album L.
+#### Limnobaris philistrata Steph.
+#### Limnobaris Reitteri Munst.
 
-Coryssomerus capucinus Beck.
+#### Coryssomerus capucinus Beck.
 
-Mononychus punctum album Hbst. (=seidocori F.
+#### Mononychus punctum album Hbst. (=seidocori F.
 
-Phytobius comari Hbst.
-Phytobius Waltoni Boh.
-Phytobius canaliculatus Fahrs.
-Phytobius quadrituberculatus F.
-Phytobius velaris Gyll.
-Phytobius quadricornis Gyll.
+#### Phytobius comari Hbst.
+#### Phytobius Waltoni Boh.
+#### Phytobius canaliculatus Fahrs.
+#### Phytobius quadrituberculatus F.
+#### Phytobius velaris Gyll.
+#### Phytobius quadricornis Gyll.
 
-Heterophytobius muricatus Bris.
-Heterophytobius quadrinodosus Gyll.
-Heterophytobius albicinctus Gyll.
-Heterophytobius perpendicularis Reich.
-Heterophytobius inconspectus Hbst. (=gramineus F.)
-Heterophytobius pericarpius L.
-Heterophytobius bruchoides Hbst.
-Heterophytobius bosnicus Schultze
-Heterophytobius castor F.
+#### Heterophytobius muricatus Bris.
+#### Heterophytobius quadrinodosus Gyll.
+#### Heterophytobius albicinctus Gyll.
+#### Heterophytobius perpendicularis Reich.
+#### Heterophytobius inconspectus Hbst. (=gramineus F.)
+#### Heterophytobius pericarpius L.
+#### Heterophytobius bruchoides Hbst.
+#### Heterophytobius bosnicus Schultze
+#### Heterophytobius castor F.
 
-Rhytidosomus globulus Hbst.
-Rhytidosomus fallax Otto
+#### Rhytidosomus globulus Hbst.
+#### Rhytidosomus fallax Otto
 
-Amalus haemorrhous Hbst.
+#### Amalus haemorrhous Hbst.
 
-Drupenatus nasturtii Germ.
+#### Drupenatus nasturtii Germ.
 
-Poophagus sisymbrii F.
+#### Poophagus sisymbrii F.
 
-Tapinotus sellatus F.
+#### Tapinotus sellatus F.
 
-Orobitis eyaneus L.
+#### Orobitis eyaneus L.
 
-Coeliodes rubicundus Hbst.
-Coeliodes nigritarsis Hartmann
-Coeliodes draydos Gmel. (=quercus F.)
-Coeliodes ruber Marsh.
-Coeliodes cinctus Geoffr. (=erythroleucus Gmel.)
+#### Coeliodes rubicundus Hbst.
+#### Coeliodes nigritarsis Hartmann
+#### Coeliodes draydos Gmel. (=quercus F.)
+#### Coeliodes ruber Marsh.
+#### Coeliodes cinctus Geoffr. (=erythroleucus Gmel.)
 
-Thamioculus viduatus Gyll.
-Thamioculus signatus Gyll.
+#### Thamioculus viduatus Gyll.
+#### Thamioculus signatus Gyll.
 
-Micrelus eicae Gyll.
+#### Micrelus eicae Gyll.
 
-Coeliastes lamii F.
+#### Coeliastes lamii F.
 
-Zacladus exiguus Oliv.
-Zacladus affinis Payk.
+#### Zacladus exiguus Oliv.
+#### Zacladus affinis Payk.
 
-Cnemogonus epilobii Payk.
+#### Cnemogonus epilobii Payk.
 
-Phrydiuchus topiarius Germ.
+#### Phrydiuchus topiarius Germ.
 
-Ceuthorhynchus scapularis Gyll.
-Ceuthorhynchus cochleariae Gyll.
-Ceuthorhynchus constricus Marsh.
-Ceuthorhynchus contractus Marsh.
-Ceuthorhynchus erysimi F.
-Ceuthorhynchus viridanus Gyll.
-Ceuthorhynchus ignitus Germ.
-Ceuthorhynchus Leprieuri Bris.
-Ceuthorhynchus chalybaeus Germ.
-Ceuthorhynchus hirtulus Germ.
-Ceuthorhynchus griseus Bris.
-Ceuthorhynchus sulcicollis Payk.
-Ceuthorhynchus atomus Boh.
-Ceuthorhynchus picitarsis Gyll.
-Ceuthorhynchus quadridens Panz.
-Ceuthorhynchus pleurostigma Marsh.
-Ceuthorhynchus Roberti Gyll.
-Ceuthorhynchus napi Gyll.
-Ceuthorhynchus rapae Gyll.
-Ceuthorhynchus assimilis Payk.
-Ceuthorhynchus nanus Gyll.
-Ceuthorhynchus inaffectatus Gyll.
-Ceuthorhynchus syrites Germ.
-Ceuthorhynchus rusticus Gyll.
-Ceuthorhynchus suturalis F.
-Ceuthorhynchus denticulatus Rttr.
-Ceuthorhynchus pollinarius Forst.
-Ceuthorhynchus macula alba Hbst.
-Ceuthorhynchus marginatus Payk.
-Ceuthorhynchus punctiger Gyll.
-Ceuthorhynchus arquatus Hbst.
-Ceuthorhynchus angulosus Boh.
-Ceuthorhynchus melanostictus Marsh.
-Ceuthorhynchus rugulosus Hbst.
-Ceuthorhynchus chrysanthemi Germ.
-Ceuthorhynchus millefolii Schultes
-Ceuthorhynchus campestris Gyll.
-Ceuthorhynchus trimaculatus F.
-Ceuthorhynchus euphorbiae Bris.
-Ceuthorhynchus austriacus Bris.
-Ceuthorhynchus abbreviatulus F.
-Ceuthorhynchus albosignatus Gyll.
-Ceuthorhynchus asperifoliarum Gyll.
-Ceuthorhynchus crucifer Oliv.
-Ceuthorhynchus symphyti Bed.
-Ceuthorhynchus geographicus Goeze.
+#### Ceuthorhynchus scapularis Gyll.
+#### Ceuthorhynchus cochleariae Gyll.
+#### Ceuthorhynchus constricus Marsh.
+#### Ceuthorhynchus contractus Marsh.
+#### Ceuthorhynchus erysimi F.
+#### Ceuthorhynchus viridanus Gyll.
+#### Ceuthorhynchus ignitus Germ.
+#### Ceuthorhynchus Leprieuri Bris.
+#### Ceuthorhynchus chalybaeus Germ.
+#### Ceuthorhynchus hirtulus Germ.
+#### Ceuthorhynchus griseus Bris.
+#### Ceuthorhynchus sulcicollis Payk.
+#### Ceuthorhynchus atomus Boh.
+#### Ceuthorhynchus picitarsis Gyll.
+#### Ceuthorhynchus quadridens Panz.
+#### Ceuthorhynchus pleurostigma Marsh.
+#### Ceuthorhynchus Roberti Gyll.
+#### Ceuthorhynchus napi Gyll.
+#### Ceuthorhynchus rapae Gyll.
+#### Ceuthorhynchus assimilis Payk.
+#### Ceuthorhynchus nanus Gyll.
+#### Ceuthorhynchus inaffectatus Gyll.
+#### Ceuthorhynchus syrites Germ.
+#### Ceuthorhynchus rusticus Gyll.
+#### Ceuthorhynchus suturalis F.
+#### Ceuthorhynchus denticulatus Rttr.
+#### Ceuthorhynchus pollinarius Forst.
+#### Ceuthorhynchus macula alba Hbst.
+#### Ceuthorhynchus marginatus Payk.
+#### Ceuthorhynchus punctiger Gyll.
+#### Ceuthorhynchus arquatus Hbst.
+#### Ceuthorhynchus angulosus Boh.
+#### Ceuthorhynchus melanostictus Marsh.
+#### Ceuthorhynchus rugulosus Hbst.
+#### Ceuthorhynchus chrysanthemi Germ.
+#### Ceuthorhynchus millefolii Schultes
+#### Ceuthorhynchus campestris Gyll.
+#### Ceuthorhynchus trimaculatus F.
+#### Ceuthorhynchus euphorbiae Bris.
+#### Ceuthorhynchus austriacus Bris.
+#### Ceuthorhynchus abbreviatulus F.
+#### Ceuthorhynchus albosignatus Gyll.
+#### Ceuthorhynchus asperifoliarum Gyll.
+#### Ceuthorhynchus crucifer Oliv.
+#### Ceuthorhynchus symphyti Bed.
+#### Ceuthorhynchus geographicus Goeze.
 
-Neosirocalus posthumus Germ.
-Neosirocalus floralis Payk.
-Neosirocalus pulinatus Gyll.
-Neosirocalus pyrrhorhynchus Marsh.
+#### Neosirocalus posthumus Germ.
+#### Neosirocalus floralis Payk.
+#### Neosirocalus pulinatus Gyll.
+#### Neosirocalus pyrrhorhynchus Marsh.
 
-Serocalodes nigrinus Marsh.
-Serocalodes quericola Payk.
+#### Serocalodes nigrinus Marsh.
+#### Serocalodes quericola Payk.
 
-Calosiris terminatus Hbst.
+#### Calosiris terminatus Hbst.
 
-Ceuthorrhynchidius troglodytes F.
-Ceuthorrhynchidius rufulus Duf.
-Ceuthorrhynchidius Barnevillei Grén.
-Ceuthorrhynchidius hiridus Panz.
+#### Ceuthorrhynchidius troglodytes F.
+#### Ceuthorrhynchidius rufulus Duf.
+#### Ceuthorrhynchidius Barnevillei Grén.
+#### Ceuthorrhynchidius hiridus Panz.
 
-Stenocarus fuliginosus Marsh.
-Stenocarus cardui Hbst.
-Cidnorrhynus quadrimaculatus L.
+#### Stenocarus fuliginosus Marsh.
+#### Stenocarus cardui Hbst.
+#### Cidnorrhynus quadrimaculatus L.
 
 ### Mecininae
-Nonophyes circumscriptus Aubé
-Nonophyes hemisphaericus Oliv.
-Nonophyes hemisphaericus ab. ulmi Germ.
-Nonophyes globulus Germ.
-Nonophyes marmoratus Goeze (lythri F.)
+#### Nonophyes circumscriptus Aubé
+#### Nonophyes hemisphaericus Oliv.
+#### Nonophyes hemisphaericus ab. ulmi Germ.
+#### Nonophyes globulus Germ.
+#### Nonophyes marmoratus Goeze (lythri F.)
 
-Mecinus collaris Germ.
-Mecinus janthinus Germ.
-Mecinus pyraster Hbst.
+#### Mecinus collaris Germ.
+#### Mecinus janthinus Germ.
+#### Mecinus pyraster Hbst.
 
-Gymnetron labile Hbst.
-Gymnetron rostellum Hbst.
-Gymnetron stimulosum Germ.
-Gymnetron melanarium Germ.
-Gymnetron villosulum Gyll.
-Gymnetron beccabungae L.
-Gymnetron veronicae Germ.
-Gymnetron asellus Grav.
-Gymnetron tetrum F.
-Gymnetron antirrhini Germ. (=noctis Hbst.)
-Gymnetron hispidum Brullé (=pilosum Gyll.)
-Gymnetron melas Boh.
-Gymnetron netum Germ.
-Gymnetron thapsicola Germ.
-Gymnetron collinum Gyll.
-Gymnetron linariae Panz.
+#### Gymnetron labile Hbst.
+#### Gymnetron rostellum Hbst.
+#### Gymnetron stimulosum Germ.
+#### Gymnetron melanarium Germ.
+#### Gymnetron villosulum Gyll.
+#### Gymnetron beccabungae L.
+#### Gymnetron veronicae Germ.
+#### Gymnetron asellus Grav.
+#### Gymnetron tetrum F.
+#### Gymnetron antirrhini Germ. (=noctis Hbst.)
+#### Gymnetron hispidum Brullé (=pilosum Gyll.)
+#### Gymnetron melas Boh.
+#### Gymnetron netum Germ.
+#### Gymnetron thapsicola Germ.
+#### Gymnetron collinum Gyll.
+#### Gymnetron linariae Panz.
 
-Miarus graminis Gyll.
-Miarus planatrum Germ.
-Miarus campanulae L.
+#### Miarus graminis Gyll.
+#### Miarus planatrum Germ.
+#### Miarus campanulae L.
 
-Cionus tuberculosus Scop (=verbasci F.)
-Cionus scrophulariae L.
-Cionus hortulanus Fourer.
-Cionus thapsi F.
-Cionus Oliveri Rosensch.
-Cionus alauda Hbst.
-Cionus pulchellus Hbst.
-Cionus solani F.
-Cionus fraxini Deg.
+#### Cionus tuberculosus Scop (=verbasci F.)
+#### Cionus scrophulariae L.
+#### Cionus hortulanus Fourer.
+#### Cionus thapsi F.
+#### Cionus Oliveri Rosensch.
+#### Cionus alauda Hbst.
+#### Cionus pulchellus Hbst.
+#### Cionus solani F.
+#### Cionus fraxini Deg.
 
-Anoplus plantaris Naezen.
-Anoplus roboris Suffr.
+#### Anoplus plantaris Naezen.
+#### Anoplus roboris Suffr.
 
-### Rhynchaeninae
-Rhynchaenus quercus L.
-Rhynchaenus pilosus F.
-Rhynchaenus erythropus Germ.
-Rhynchaenus jota F.
-Rhynchaenus fagi L.
-Rhynchaenus testaceus Müll.
-Rhynchaenus testaceus v. pubescens Steph
-Rhynchaenus lonicerae Hbst.
-Rhynchaenus rusci Hbst.
-Rhynchaenus avellanae Donov.
-Rhynchaenus (Pseudorchestes Schönherr) decoratus Germ.
-Rhynchaenus rufitarsis Germ.
-Rhynchaenus salicis L.
-Rhynchaenus stigma Germ.
-Rhynchaenus populi F.
-Rhynchaenus foliorum Müll.
-Rhynchaenus pulicarius Hbst.
+#### ### Rhynchaeninae
+#### Rhynchaenus quercus L.
+#### Rhynchaenus pilosus F.
+#### Rhynchaenus erythropus Germ.
+#### Rhynchaenus jota F.
+#### Rhynchaenus fagi L.
+#### Rhynchaenus testaceus Müll.
+#### Rhynchaenus testaceus v. pubescens Steph
+#### Rhynchaenus lonicerae Hbst.
+#### Rhynchaenus rusci Hbst.
+#### Rhynchaenus avellanae Donov.
+#### Rhynchaenus (Pseudorchestes Schönherr) decoratus Germ.
+#### Rhynchaenus rufitarsis Germ.
+#### Rhynchaenus salicis L.
+#### Rhynchaenus stigma Germ.
+#### Rhynchaenus populi F.
+#### Rhynchaenus foliorum Müll.
+#### Rhynchaenus pulicarius Hbst.
 
 
 
