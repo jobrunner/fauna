@@ -5,7 +5,7 @@ Unkritisch übernommen aus:
 - [X] Fröhlich, 1897[^1]
 - [X] Singer, 1955[^2]
 - [X] Gläßel, 1956[^3]
-- [ ] Elbert, 1969[^4]
+- [X] Elbert, 1969[^4]
 - [ ] Elbert, 1994[^5]
 - [ ] Löbel & Smetana, 2013 [^6]
 
@@ -235,6 +235,12 @@ Quelle: Gläßel
 #### Phyllobius piri L. a. mali Gyll. Lohr
 Quelle: Gläßel
 
+#### Phyllobius arborator Hbst.
+Elbert 69  (Oe, Dö)
+
+#### Phyllobius impressifrons Gyll.
+Elbert 69
+
 
 ### Brachyderinae
 #### Polydrosus impar Gozis.
@@ -270,8 +276,14 @@ Quelle: Gläßel
 
 #### Barypithes araneiformis Schrank.
 #### Barypithes pellucidus Boh.
+Singer, 1955, Elbert 1969 (S!)
+
 #### Barypithes mollicomus Ahr.
 #### Barypithes tener Boh.
+Singer, 1955, Elbert 1969 (Dö, Fr, S, D)!
+
+#### Barypithes trichopterus Gaut. (D)
+
 
 #### Brachyderes incanus L.
 
@@ -304,6 +316,7 @@ Quelle: Gläßel
 #### Sitona humeralis Steph.
 #### Sitona cylindricollis F.
 #### Sitona inops Gyll.
+Singer, 1955, Elbert 1969!(S)
 
 
 ### Tanymecinae
@@ -330,6 +343,8 @@ Quelle: Gläßel
 #### Lixus subtilis Sturm.
 #### Lixus ascanii L. 
 #### Lixus algirus L. (=angustatus F.)
+Singer, 1955, Elbert 1969! (Scr, Fr, D)
+
 #### Lixus bardanae F. (cylindricus Hbst.)
 #### Lixus punctiventris Boh.
 #### Lixus elongatus Geoze
@@ -361,6 +376,8 @@ Quelle: Gläßel
 
 #### Eremotes ater L.
 #### Eremotes punctulatus Boh.
+Singer 1955, Elbert 1969! (Dö, S)
+
 #### Eremotes reflexus Boh.
 #### Eremotes (Brachytemnus Woll.) percatus Germ.
 
@@ -381,6 +398,11 @@ Quelle: Gläßel
 #### Bagous glabrirostris Hbst.
 #### Bagous nodulosus Gyll. See
 Quelle: Gläßel
+
+
+#### Bagous tempestivus Hbst.
+Elbert 1969(Scr) 
+
 
 #### Hydronomus alismatis Marsh.
 
@@ -414,6 +436,7 @@ Quelle: Gläßel
 #### Thryogenes Nereis Payk.
 #### Thryogenes festucae Hbst.
 #### Thryogenes scirrhosus Gyll.
+Singer 1955, Elbert 1969!
 
 #### Grypus equisiti F.
 #### Grypus brunneirostris F.
@@ -456,6 +479,8 @@ Quelle: Gläßel
 #### Sibinia potentilae Germ.
 
 #### Anthonomus rubripes Gyll.
+kann nach Elbert 1969 durch Anthonomus germanicus Dieckmann ersetzt und hier gestrichen werden.
+
 #### Anthonomus varians Payk.
 #### Anthonomus pubescens Payk.
 #### Anthonomus rubi Hbst.
@@ -464,12 +489,27 @@ Quelle: Gläßel
 #### Anthonomus humeralis Panz.
 #### Anthonomus spilotus Redt.
 #### Anthonomus inversus Bedel.
+wird von Elbert 1969 durch A. ulmi Degeer ersetzt.
+
 #### Anthonomus pedicularis L.
 #### Anthonomus rufus Gyll.
+#### Anthonomus germanicus Dieckmann 1968
+Elbert 1969
+
+#### Anthonomus undulatus (Gyllenhal, 1836)
+Elbert 1969
+
 
 #### Furcipes rectirostris L.
 
 #### Bradybatus elongatulus Boh.
+Nach Elbert 1969 Fehlbestimmung und wird gestrichen.
+
+#### Bradybatus fallax Gerstäcker 1860
+Nach Elbert 1969 ersetzt B. fallax die species propria A. elongatulus aus Singer 1955.
+
+#### Bradybatus kellneri Bach
+Elbert 1969
 
 #### Brachonyx pineti Payk.
 
@@ -536,6 +576,7 @@ Quelle: Gläßel
 #### Epipolaeus coliginaeus F.
 
 #### Adexius scrobipennis Gyll.
+Singer 1955, Elbert 1969!
 
 #### Alophus triguttatus F.
 
@@ -581,8 +622,12 @@ Quelle: Gläßel
 #### Cryptorrhynchidius lapathi L.
 
 #### Acalles roboris Curt.
+auch Elbert 1969
+
 #### Acalles camelus f.
 #### Acalles ptinoides Marsh.
+auch Elbert 1969
+
 #### Acalles turbatus Boh.
 #### Acalles lemur Germ.
 #### Acalles echinatus Germ.
@@ -607,6 +652,7 @@ Quelle: Gläßel
 #### Limnobaris Reitteri Munst.
 
 #### Coryssomerus capucinus Beck.
+auch Elbert 1969
 
 #### Mononychus punctum album Hbst. (=seidocori F.
 
@@ -645,6 +691,9 @@ Quelle: Gläßel
 #### Coeliodes draydos Gmel. (=quercus F.)
 #### Coeliodes ruber Marsh.
 #### Coeliodes cinctus Geoffr. (=erythroleucus Gmel.)
+Elbert 1969
+
+#### Coeliodes trifasciatus Bach
 
 #### Thamioculus viduatus Gyll.
 #### Thamioculus signatus Gyll.
@@ -655,6 +704,8 @@ Quelle: Gläßel
 
 #### Zacladus exiguus Oliv.
 #### Zacladus affinis Payk.
+Elbert 1969 führt einen konkreten Nachweis an.
+
 
 #### Cnemogonus epilobii Payk.
 
@@ -671,7 +722,11 @@ Quelle: Gläßel
 #### Ceuthorhynchus chalybaeus Germ.
 #### Ceuthorhynchus hirtulus Germ.
 #### Ceuthorhynchus griseus Bris.
+auch Elbert 1969
+
 #### Ceuthorhynchus sulcicollis Payk.
+auch Elbert 1969
+
 #### Ceuthorhynchus atomus Boh.
 #### Ceuthorhynchus picitarsis Gyll.
 #### Ceuthorhynchus quadridens Panz.
@@ -706,8 +761,16 @@ Quelle: Gläßel
 #### Ceuthorhynchus crucifer Oliv.
 #### Ceuthorhynchus symphyti Bed.
 #### Ceuthorhynchus geographicus Goeze.
+#### Ceuthorhynchus litura F.
+Elbert 1969 (D)
+
 
 #### Neosirocalus posthumus Germ.
+Nach Elbert 1969 trennt N. posthumus und die Mischart N. pumilio und gibt Belege an.
+
+#### Neosirocalus pumilio Gyll.
+Neu nach Elbert 1969, da Mischart mit A. posthumus.
+
 #### Neosirocalus floralis Payk.
 #### Neosirocalus pulinatus Gyll.
 #### Neosirocalus pyrrhorhynchus Marsh.
@@ -731,10 +794,14 @@ Quelle: Gläßel
 ### Mecininae
 
 #### Nonophyes circumscriptus Aubé
+auch Elbert 1969
+
 #### Nonophyes hemisphaericus Oliv.
 #### Nonophyes hemisphaericus ab. ulmi Germ.
 #### Nonophyes globulus Germ.
 #### Nonophyes marmoratus Goeze (lythri F.)
+#### Nanophyes brevis Boh.
+
 
 #### Mecinus collaris Germ.
 #### Mecinus janthinus Germ.
@@ -755,7 +822,10 @@ Quelle: Gläßel
 #### Gymnetron netum Germ.
 #### Gymnetron thapsicola Germ.
 #### Gymnetron collinum Gyll.
+auch Elbert 1969
+
 #### Gymnetron linariae Panz.
+#### Gymnetron pascuorum Gyll.
 
 #### Miarus graminis Gyll.
 #### Miarus planatrum Germ.
@@ -797,8 +867,11 @@ Quelle: Gläßel
 #### Rhynchaenus populi F.
 #### Rhynchaenus foliorum Müll.
 #### Rhynchaenus pulicarius Hbst.
+#### Rhynchaenus rufus Schrk.
+Elbert 1969
 
-
+#### Rhamphus oxyacanthae (Marsham, 1802)
+Elbert 1969
 
 
 
