@@ -3,7 +3,7 @@
 Unkritisch übernommen aus:
 
 - [X] Fröhlich, 1897[^1]
-- [ ] Singer, 1955[^2]
+- [X] Singer, 1955[^2]
 - [ ] Gläßel, 1956[^3]
 - [ ] Elbert, 1969[^4]
 - [ ] Elbert, 1994[^5]
@@ -16,152 +16,155 @@ Quelle: Singer (bei demselben verwendete Namen)
 
 ### Rhynchitidae
 
-Nemonyx lepturoides F.
-Rhinomacer attelaboides F.
-Diodyrrhynchus austriacus Oliv.
-Lasiorrhynchites sericeus Hrbs.
-Lasiorrhynchites cavifrons Gyll.
-Lasiorrhynchites olivaceus Gyll.
-Lasiorrhynchites coeruleoceephalus Schall.
+#### Nemonyx lepturoides F.
+#### Rhinomacer attelaboides F.
+#### Diodyrrhynchus austriacus Oliv.
+#### Lasiorrhynchites sericeus Hrbs.
+#### Lasiorrhynchites cavifrons Gyll.
+#### Lasiorrhynchites olivaceus Gyll.
+#### Lasiorrhynchites coeruleoceephalus Schall.
 
-Coenorrhinus nanus Payk.
-Coenorrhinus tomentosus Gyll.
-Coenorrhinus germanicus Hbst.
-Coenorrhinus aeneovirens Marsh.
-Coenorrhinus interpunctatus Steph.
-Coenorrhinus pauxillus Germ.
-Coenorrhinus aequatus L.
+#### Coenorrhinus nanus Payk.
+#### Coenorrhinus tomentosus Gyll.
+#### Coenorrhinus germanicus Hbst.
+#### Coenorrhinus aeneovirens Marsh.
+#### Coenorrhinus interpunctatus Steph.
+#### Coenorrhinus pauxillus Germ.
+#### Coenorrhinus aequatus L.
 
-Rhynchites pubescens F.
-Rhynchites coeruleus Deg.
-Rhynchites cupreus L.
-Rhynchites aethiops Bach.
-Rhynchites auratus Scop.
-Rhynchites Bacchus L.
+#### Rhynchites pubescens F.
+#### Rhynchites coeruleus Deg.
+#### Rhynchites cupreus L.
+#### Rhynchites aethiops Bach.
+#### Rhynchites auratus Scop.
+#### Rhynchites Bacchus L.
 
-Byctiscus betulae L.
-Byctiscus populi L.
+#### Byctiscus betulae L.
+#### Byctiscus populi L.
 
-Chonostrophus tristis F.
+#### Chonostrophus tristis F.
 
-Deporus Mannerheimi Hummel (=megacephalus Germ.)
-Deporus betulae L.
+#### Deporus Mannerheimi Hummel (=megacephalus Germ.)
+#### Deporus betulae L.
+
 
 ### Attelabidae
 
-Attelabus nitens Scop. (=curculionides L.)
+#### Attelabus nitens Scop. (=curculionides L.)
 
-Apoderus coryli L.
+#### Apoderus coryli L.
+
 
 ### Apionidae
 
-Apion (Pseudoperapion Wagn.) brevirostris Hbst.
+#### Apion (Pseudoperapion Wagn.) brevirostris Hbst.
 
-Apion (Perapion Wagn.) violaceum Kirby.
-Apion (Perapion Wagn.) marchicum Hbst.
-Apion (Perapion Wagn.) affine Kirby.
-Apion (Perapion Wagn.) sedi Germ.
-Apion (Perapion Wagn.) curtirostre Germ.
+#### Apion (Perapion Wagn.) violaceum Kirby.
+#### Apion (Perapion Wagn.) marchicum Hbst.
+#### Apion (Perapion Wagn.) affine Kirby.
+#### Apion (Perapion Wagn.) sedi Germ.
+#### Apion (Perapion Wagn.) curtirostre Germ.
 
-Apion (Pseudostenapion Wagn.) simum Germ.
-Apion (Phrissotrictum Schy.) rugicolle Germ.
-Apion (Pseudapion Schy.) malvae F.
-Apion (Pseudapion Schy.) rufirostre F.
-Apion (Aspidapion Schy.) aeneum F.
-Apion (Aspidapion Schy.) radiolus Kirby.
-Apion (Exapion Bedel) compactum Desbr.
-Apion (Exapion Bedel) genistae Kirby.
-Apion (Exapion Bedel) Formaneki Wagn. (=hungaricum Wagner)
-Apion (Exapion Bedel) difficile Hbst.
-Apion (Exapion Bedel) fuscirostre F.
+#### Apion (Pseudostenapion Wagn.) simum Germ.
+#### Apion (Phrissotrictum Schy.) rugicolle Germ.
+#### Apion (Pseudapion Schy.) malvae F.
+#### Apion (Pseudapion Schy.) rufirostre F.
+#### Apion (Aspidapion Schy.) aeneum F.
+#### Apion (Aspidapion Schy.) radiolus Kirby.
+#### Apion (Exapion Bedel) compactum Desbr.
+#### Apion (Exapion Bedel) genistae Kirby.
+#### Apion (Exapion Bedel) Formaneki Wagn. (=hungaricum Wagner)
+#### Apion (Exapion Bedel) difficile Hbst.
+#### Apion (Exapion Bedel) fuscirostre F.
 
-Apion (Erythrapion Schy.) miniatum Germ.
-Apion (Erythrapion Schy.) frumentarium F.
-Apion (Erythrapion Schy.) sanguineum Deg.
-Apion (Erythrapion Schy.) rubens Steph.
+#### Apion (Erythrapion Schy.) miniatum Germ.
+#### Apion (Erythrapion Schy.) frumentarium F.
+#### Apion (Erythrapion Schy.) sanguineum Deg.
+#### Apion (Erythrapion Schy.) rubens Steph.
 
-Apion (Melanapion Wagner) minimum Hbst.
+#### Apion (Melanapion Wagner) minimum Hbst.
 
-Apion (Taenapion Wagner) urticarium Hbst.
+#### Apion (Taenapion Wagner) urticarium Hbst.
 
-Apion (Squamapion Wagner) elongatum Germ.
-Apion (Squamapion Wagner) flavimanum Gyll.
-Apion (Squamapion Wagner) vicinum Kirby.
-Apion (Squamapion Wagner) atomarium Kirby.
+#### Apion (Squamapion Wagner) elongatum Germ.
+#### Apion (Squamapion Wagner) flavimanum Gyll.
+#### Apion (Squamapion Wagner) vicinum Kirby.
+#### Apion (Squamapion Wagner) atomarium Kirby.
 
-Apion (Catapion Schy.) seniculum Kirby.
-Apion (Catapion Schy.) pubescens Kirby.
+#### Apion (Catapion Schy.) seniculum Kirby.
+#### Apion (Catapion Schy.) pubescens Kirby.
 
-Apion (Diplapion Rttr.) confluens Kirby.
-Apion (Diplapion Rttr.) stolidum Germ.
+#### Apion (Diplapion Rttr.) confluens Kirby.
+#### Apion (Diplapion Rttr.) stolidum Germ.
 
-Apion (Taphrotopium Rttr.) sulcifrons Hbst.
-Apion (Ceratapion Schylks.) onopordi Kirby.
-Apion (Ceratapion Schylks.) penetrans Germ.
-Apion (Ceratapion Schylks.) carduorum Kirby.
+#### Apion (Taphrotopium Rttr.) sulcifrons Hbst.
+#### Apion (Ceratapion Schylks.) onopordi Kirby.
+#### Apion (Ceratapion Schylks.) penetrans Germ.
+#### Apion (Ceratapion Schylks.) carduorum Kirby.
 
-Apion (Omphalapion Schy.) laevigatum Payk.
-Apion (Omphalapion Schy.) Buddelbergi Bedel.
-Apion (Omphalapion Schy.) dispar Germ.
-Apion (Omphalapion Schy.) Hockeri Kirby.
+#### Apion (Omphalapion Schy.) laevigatum Payk.
+#### Apion (Omphalapion Schy.) Buddelbergi Bedel.
+#### Apion (Omphalapion Schy.) dispar Germ.
+#### Apion (Omphalapion Schy.) Hockeri Kirby.
 
-Apion (Synapion Schy.) ebeninum Kirby.
+#### Apion (Synapion Schy.) ebeninum Kirby.
 
-Apion (Leptapion Wagn.) meliloti Kirby.
-Apion (Leptapion Wagn.) loti Kirby.
-Apion (Leptapion Wagn.) intermedium Epp.
-Apion (Leptapion Wagn.) tenue Kirby.
+#### Apion (Leptapion Wagn.) meliloti Kirby.
+#### Apion (Leptapion Wagn.) loti Kirby.
+#### Apion (Leptapion Wagn.) intermedium Epp.
+#### Apion (Leptapion Wagn.) tenue Kirby.
 
-Apion (Pirapion Rttr.) striatum Kirby.
-Apion (Pirapion Rttr.) immune Kirby.
+#### Apion (Pirapion Rttr.) striatum Kirby.
+#### Apion (Pirapion Rttr.) immune Kirby.
 
-Apion Coelorhinapion Wagn.) platalea Germ.
-Apion Coelorhinapion Wagn.) Gyllenhali Kirby.
+#### Apion Coelorhinapion Wagn.) platalea Germ.
+#### Apion Coelorhinapion Wagn.) Gyllenhali Kirby.
 
-Apion pisi F.
-Apion aethiops Hbst.
+#### Apion pisi F.
+#### Apion aethiops Hbst.
 
-Apion (Cynapion Wagner) columbinum Germ.
-Apion (Cynapion Wagner) Spencei Kirby.
+#### Apion (Cynapion Wagner) columbinum Germ.
+#### Apion (Cynapion Wagner) Spencei Kirby.
 
-Apion (Pseudotrichapion Wagner) punctigermum Payk.
+#### Apion (Pseudotrichapion Wagner) punctigermum Payk.
 
-Apion (Metatrichapion Wagner) reflexum Gyll.
-Apion (Metatrichapion Wagner) Curtisi Steph.
-Apion (Metatrichapion Wagner) lanigerum Germ.
-Apion (Metatrichapion Wagner) pavidum Germ.
+#### Apion (Metatrichapion Wagner) reflexum Gyll.
+#### Apion (Metatrichapion Wagner) Curtisi Steph.
+#### Apion (Metatrichapion Wagner) lanigerum Germ.
+#### Apion (Metatrichapion Wagner) pavidum Germ.
 
-Apion (Cnemapion Schy.) vorax Hbst.
+#### Apion (Cnemapion Schy.) vorax Hbst.
 
-Apion (Holotrichapion Wagner) ononis Kirby.
+#### Apion (Holotrichapion Wagner) ononis Kirby.
 
-Apion (Trichapion Schy.)  simile Kirby.
+#### Apion (Trichapion Schy.)  simile Kirby.
 
-Apion (Eurtrichapion Rtt.) viciae Payk.
-Apion (Eurtrichapion Rtt.) ervi Kirby.
+#### Apion (Eurtrichapion Rtt.) viciae Payk.
+#### Apion (Eurtrichapion Rtt.) ervi Kirby.
 
-Apion (Neoxyatoma Bedel) craccae L.
-Apion (Neoxyatoma Bedel) cerdo Gerst.
-Apion (Neoxyatoma Bedel) pomonae F.
-Apion (Neoxyatoma Bedel) ochropus Germ.
+#### Apion (Neoxyatoma Bedel) craccae L.
+#### Apion (Neoxyatoma Bedel) cerdo Gerst.
+#### Apion (Neoxyatoma Bedel) pomonae F.
+#### Apion (Neoxyatoma Bedel) ochropus Germ.
 
-Apion (Chlorapion Wagner) virens Hbst.
+#### Apion (Chlorapion Wagner) virens Hbst.
 
-Apion (Pseudoprotapion Wagner) virens Hbst.
-Apion (Pseudoprotapion Wagner) elegantulum Germ.
+#### Apion (Pseudoprotapion Wagner) virens Hbst.
+#### Apion (Pseudoprotapion Wagner) elegantulum Germ.
 
-Apion (Protapion Schy.) flavipes Payk.
-Apion (Protapion Schy.) nigritarse Kirby.
-Apion (Protapion Schy.) filirostre Kirby.
-Apion (Protapion Schy.) aestivum Germ.
-Apion (Protapion Schy.) apricans Hbst.
-Apion (Protapion Schy.) varipes Germ.
-Apion (Protapion Schy.) assimile Kirby.
-Apion (Protapion Schy.) ononicola Bach.
-Apion (Protapion Schy.) dissimile Germ.
+#### Apion (Protapion Schy.) flavipes Payk.
+#### Apion (Protapion Schy.) nigritarse Kirby.
+#### Apion (Protapion Schy.) filirostre Kirby.
+#### Apion (Protapion Schy.) aestivum Germ.
+#### Apion (Protapion Schy.) apricans Hbst.
+#### Apion (Protapion Schy.) varipes Germ.
+#### Apion (Protapion Schy.) assimile Kirby.
+#### Apion (Protapion Schy.) ononicola Bach.
+#### Apion (Protapion Schy.) dissimile Germ.
 
 
 ### Otiorrhynchinae
+
 #### Otiorrhynchus laevigatus F.
 #### Otiorrhynchus raucus F.
 #### Otiorrhynchus porcatus Hbst.
@@ -203,64 +206,64 @@ Apion (Protapion Schy.) dissimile Germ.
 #### Phyllobius urticae Deg.
 
 ### Brachyderinae
-Polydrosus impar Gozis.
-Polydrosus marginatus Steph.
-Polydrosus atomarius Oliv.
-Polydrosus pterygomalis Boh.
-Polydrosus flavipes Deg.
-Polydrosus cervinus L.
-Polydrosus pilosus Gredler.
-Polydrosus confluence Steph.
-Polydrosus undatus F. (=teretricollis Bonsd.)
-Polydrosus sericeus Schall.
-Polydrosus mollis Stroem. (=micans)
+#### Polydrosus impar Gozis.
+#### Polydrosus marginatus Steph.
+#### Polydrosus atomarius Oliv.
+#### Polydrosus pterygomalis Boh.
+#### Polydrosus flavipes Deg.
+#### Polydrosus cervinus L.
+#### Polydrosus pilosus Gredler.
+#### Polydrosus confluence Steph.
+#### Polydrosus undatus F. (=teretricollis Bonsd.)
+#### Polydrosus sericeus Schall.
+#### Polydrosus mollis Stroem. (=micans)
 
-Scythopus mustela Hbst.
+#### Scythopus mustela Hbst.
 
-Liophloeus tesselatus Müll.
+#### Liophloeus tesselatus Müll.
 
-Eusomus ovulum Germ.
+#### Eusomus ovulum Germ.
 
-Sciaphilus asperatus Bonsd.
+#### Sciaphilus asperatus Bonsd.
 
-Brachysomus hirtus Boh.
-Brachysomus echinatus Bonsd.
+#### Brachysomus hirtus Boh.
+#### Brachysomus echinatus Bonsd.
 
-Foucartia squamulata Hbst.
+#### Foucartia squamulata Hbst.
 
-Barypithes araneiformis Schrank.
-Barypithes pellucidus Boh.
-Barypithes mollicomus Ahr.
-Barypithes tener Boh.
+#### Barypithes araneiformis Schrank.
+#### Barypithes pellucidus Boh.
+#### Barypithes mollicomus Ahr.
+#### Barypithes tener Boh.
 
-Brachyderes incanus L.
+#### Brachyderes incanus L.
 
-Stophosomus melanogrammus Forst
-Stophosomus rufipes Steph.
-Stophosomus faber Hbst.
+#### Stophosomus melanogrammus Forst
+#### Stophosomus rufipes Steph.
+#### Stophosomus faber Hbst.
 
-Cneorrhinus plagiatus Schall.
+#### Cneorrhinus plagiatus Schall.
 
-Barynotus obscurus F.
+#### Barynotus obscurus F.
 
-Sitona gressorius F.
-Sitona intermedius Küst.
-Sitona griseus F.
-Sitona cambricus Steph.
-Sitona regensteinensis Hbst.
-Sitona tibialis Hbst.
-Sitona languidus Gyll. (=Flecki Csiki)
-Sitona lineatus L.
-Sitona suturalis Steph.
-Sitona sulcifrons Thunbg.
-Sitona puncticollis Steph.
-Sitona flavenscens Marsh.
-Sitona Waterhousei Woll.
-Sitona crinitus Hbst.
-Sitona hispidulus F.
-Sitona humeralis Steph.
-Sitona cylindricollis F.
-Sitona inops Gyll.
+#### Sitona gressorius F.
+#### Sitona intermedius Küst.
+#### Sitona griseus F.
+#### Sitona cambricus Steph.
+#### Sitona regensteinensis Hbst.
+#### Sitona tibialis Hbst.
+#### Sitona languidus Gyll. (=Flecki Csiki)
+#### Sitona lineatus L.
+#### Sitona suturalis Steph.
+#### Sitona sulcifrons Thunbg.
+#### Sitona puncticollis Steph.
+#### Sitona flavenscens Marsh.
+#### Sitona Waterhousei Woll.
+#### Sitona crinitus Hbst.
+#### Sitona hispidulus F.
+#### Sitona humeralis Steph.
+#### Sitona cylindricollis F.
+#### Sitona inops Gyll.
 
 ### Tanymecinae
 
@@ -279,253 +282,258 @@ Sitona inops Gyll.
 #### Larinus turbinatus Gyll.
 #### Larinus obtusus Gyll.
 
-Rhinocyllus conicus Froelich.
+#### Rhinocyllus conicus Froelich.
 
-Lixus paraplecticus L.
-Lixus myagri Oliv
-Lixus subtilis Sturm.
-Lixus ascanii L. 
-Lixus algirus L. (=angustatus F.)
-Lixus bardanae F. (cylindricus Hbst.)
-Lixus punctiventris Boh.
-Lixus elongatus Geoze
+#### Lixus paraplecticus L.
+#### Lixus myagri Oliv
+#### Lixus subtilis Sturm.
+#### Lixus ascanii L. 
+#### Lixus algirus L. (=angustatus F.)
+#### Lixus bardanae F. (cylindricus Hbst.)
+#### Lixus punctiventris Boh.
+#### Lixus elongatus Geoze
 
-Coniocleonus glaucus F.
-Coniocleonus nebulosus L.
-Coniocleonus nigrosuturalis Goeze
+#### Coniocleonus glaucus F.
+#### Coniocleonus nebulosus L.
+#### Coniocleonus nigrosuturalis Goeze
 
-Mecaspis alternans Hbst.
-Mecaspis caesus Gyll.
+#### Mecaspis alternans Hbst.
+#### Mecaspis caesus Gyll.
 
-Chromoderus fasciatus Müll.
+#### Chromoderus fasciatus Müll.
 
-Leucosomus pedestris Poda
+#### Leucosomus pedestris Poda
 
-Pseudocleaonus cinereus Schrnk.
-Pseudocleaonus grammicus Panz.
+#### Pseudocleaonus cinereus Schrnk.
+#### Pseudocleaonus grammicus Panz.
 
-Cyphocleonus tigrinus Panz.
-Cyphocleonus trisulcatus Hbst.
-Cyphocleonus piger Scop.
+#### Cyphocleonus tigrinus Panz.
+#### Cyphocleonus trisulcatus Hbst.
+#### Cyphocleonus piger Scop.
 
 ### Cossoninae
-Dryophthorus corticalis Payk.
+#### Dryophthorus corticalis Payk.
 
-Cossonus parallelepipedus Hbst.
-Cossonus linearis F.
-Cossonus cylindricus Sahlbg.
+#### Cossonus parallelepipedus Hbst.
+#### Cossonus linearis F.
+#### Cossonus cylindricus Sahlbg.
 
-Eremotes ater L.
-Eremotes punctulatus Boh.
-Eremotes reflexus Boh.
-Eremotes (Brachytemnus Woll.) percatus Germ.
+#### Eremotes ater L.
+#### Eremotes punctulatus Boh.
+#### Eremotes reflexus Boh.
+#### Eremotes (Brachytemnus Woll.) percatus Germ.
 
-Rhyncolus (Hexarrthrus Woll.) culinaris Germ.
-Rhyncolus (Stereocorynes Woll.) truncorum Germ.
-Rhyncolus lignarius Marsh.
+#### Rhyncolus (Hexarrthrus Woll.) culinaris Germ.
+#### Rhyncolus (Stereocorynes Woll.) truncorum Germ.
+#### Rhyncolus lignarius Marsh.
 
 ### Bagoinae
-Bagous cylindrus Payk.
-Bagous limosus Gyll.
-Bagous subcarinatus Bris.
-Bagous collignensis Hbst.
-Bagous frit Hbst.
-Bagous lutulosus Gyll.
-Bagous diglyptus Boh.
-Bagous lutosus Gyll.
-Bagous lutulentus Gyll.
-Bagous glabrirostris Hbst.
+#### Bagous cylindrus Payk.
+#### Bagous limosus Gyll.
+#### Bagous subcarinatus Bris.
+#### Bagous collignensis Hbst.
+#### Bagous frit Hbst.
+#### Bagous lutulosus Gyll.
+#### Bagous diglyptus Boh.
+#### Bagous lutosus Gyll.
+#### Bagous lutulentus Gyll.
+#### Bagous glabrirostris Hbst.
 
-Hydronomus alismatis Marsh.
+#### Hydronomus alismatis Marsh.
 
 ### Tanysphyrinae
-Tanysphyrus lemnae Payk.
 
-Notaris scirpi F.
-Notaris acridulus L.
+#### Tanysphyrus lemnae Payk.
 
-Dorytomus taeniatus F.
-Dorytomus Dejeani Faust.
-Dorytomus affinis Payk.
-Dorytomus salicis Walton.
-Dorytomus validirostris Gyll.
-Dorytomus minutus Gyll.
-Dorytomus flavipes Panz.
-Dorytomus Schoenherri Faust
-Dorytomus longimanus Forst.
-Dorytomus tremulae Payk.
-Dorytomus tortrix L.
-Dorytomus filirostris Gyll.
-Dorytomus hirtipennis Bedel.
-Dorytomus melanophthalmus Payk.
-Dorytomus rufulus Bedel (=pectoralis Gyll.)
-Dorytomus villosulus Gyll.
-Dorytomus majalis Payk.
-Dorytomus dorsalis F.
-Dorytomus salicinus Gyll.
+#### Notaris scirpi F.
+#### Notaris acridulus L.
 
-Thryogenes Nereis Payk.
-Thryogenes festucae Hbst.
-Thryogenes scirrhosus Gyll.
+#### Dorytomus taeniatus F.
+#### Dorytomus Dejeani Faust.
+#### Dorytomus affinis Payk.
+#### Dorytomus salicis Walton.
+#### Dorytomus validirostris Gyll.
+#### Dorytomus minutus Gyll.
+#### Dorytomus flavipes Panz.
+#### Dorytomus Schoenherri Faust
+#### Dorytomus longimanus Forst.
+#### Dorytomus tremulae Payk.
+#### Dorytomus tortrix L.
+#### Dorytomus filirostris Gyll.
+#### Dorytomus hirtipennis Bedel.
+#### Dorytomus melanophthalmus Payk.
+#### Dorytomus rufulus Bedel (=pectoralis Gyll.)
+#### Dorytomus villosulus Gyll.
+#### Dorytomus majalis Payk.
+#### Dorytomus dorsalis F.
+#### Dorytomus salicinus Gyll.
 
-Grypus equisiti F.
-Grypus brunneirostris F.
+#### Thryogenes Nereis Payk.
+#### Thryogenes festucae Hbst.
+#### Thryogenes scirrhosus Gyll.
 
-Pseudostyphlus pilumnus Gyll.
+#### Grypus equisiti F.
+#### Grypus brunneirostris F.
 
-Orthochaetes setiger
+#### Pseudostyphlus pilumnus Gyll.
 
-Smicronyx jungermanniae Reich.
+#### Orthochaetes setiger
+
+#### Smicronyx jungermanniae Reich.
 
 ### Curculionidae
-Elleschus scanicus Payk.
-Elleschus bipunctatus L.
-Elleschus infimus Hbst.
+#### Elleschus scanicus Payk.
+#### Elleschus bipunctatus L.
+#### Elleschus infimus Hbst.
 
-Acalytputs carpini Hbst.
+#### Acalytputs carpini Hbst.
 
-Lignyodes ecucleator Panz.
+#### Lignyodes ecucleator Panz.
 
-Acromius quinquepunctatus L.
+#### Acromius quinquepunctatus L.
 
-Tychius polylineatus Germ.
-Tychius Schneideri Hbst.
-Tychius venustus F.
-Tychius junceus Reich.
-Tychius medicaginis Bris.
-Tychius haematopus Gyll.
-Tychius tomentosus Hbst.
-Tychius meliloti Steph.
-Tychius lineatulus Steph.
+#### Tychius polylineatus Germ.
+#### Tychius Schneideri Hbst.
+#### Tychius venustus F.
+#### Tychius junceus Reich.
+#### Tychius medicaginis Bris.
+#### Tychius haematopus Gyll.
+#### Tychius tomentosus Hbst.
+#### Tychius meliloti Steph.
+#### Tychius lineatulus Steph.
 
-Microtrogus picirostris F.
+#### Microtrogus picirostris F.
 
-Sibinia primita Hbst.
-Sibinia vittata Germ.
-Sibinia pellucens Scop.
-Sibinia viscariae L.
-Sibinia potentilae Germ.
+#### Sibinia primita Hbst.
+#### Sibinia vittata Germ.
+#### Sibinia pellucens Scop.
+#### Sibinia viscariae L.
+#### Sibinia potentilae Germ.
 
-Anthonomus rubripes Gyll.
-Anthonomus varians Payk.
-Anthonomus pubescens Payk.
-Anthonomus rubi Hbst.
-Anthonomus pyri Kollar
-Anthonomus pomorum L.
-Anthonomus humeralis Panz.
-Anthonomus spilotus Redt.
-Anthonomus inversus Bedel.
-Anthonomus pedicularis L.
-Anthonomus rufus Gyll.
+#### Anthonomus rubripes Gyll.
+#### Anthonomus varians Payk.
+#### Anthonomus pubescens Payk.
+#### Anthonomus rubi Hbst.
+#### Anthonomus pyri Kollar
+#### Anthonomus pomorum L.
+#### Anthonomus humeralis Panz.
+#### Anthonomus spilotus Redt.
+#### Anthonomus inversus Bedel.
+#### Anthonomus pedicularis L.
+#### Anthonomus rufus Gyll.
 
-Furcipes rectirostris L.
+#### Furcipes rectirostris L.
 
-Bradybatus elongatulus Boh.
+#### Bradybatus elongatulus Boh.
 
-Brachonyx pineti Payk.
+#### Brachonyx pineti Payk.
 
 ### Tychiinae
-Curculio elephas Gyll.
-Curculio pellitus Boh.
-Curculio venosus Grav.
-Curculio villosus F.
-Curculio nucum L.
-Curculio glandium Marsh.
-Curculio cerasorum Hbst.
-Curculio rubidus Gyll.
-Curculio crux F.
-Curculio salicivorus Payk.
-Curculio pyrrhoceras Marsh.
+
+#### Curculio elephas Gyll.
+#### Curculio pellitus Boh.
+#### Curculio venosus Grav.
+#### Curculio villosus F.
+#### Curculio nucum L.
+#### Curculio glandium Marsh.
+#### Curculio cerasorum Hbst.
+#### Curculio rubidus Gyll.
+#### Curculio crux F.
+#### Curculio salicivorus Payk.
+#### Curculio pyrrhoceras Marsh.
 
 ### Pissondinae
-Pissodes piceae Illig.
-Pissodes notatus F.
-Pissodes pini L.
-Pissodes piniphilus Hbst.
 
-Magdalis memnonia Gyll.
-Magdalis linearis Gyll.
-Magdalis phlegmatica Hbst.
-Magdalis rufa Goeze
-Magdalis nitida Gyll.
-Magdalis violacea L.
-Magdalis frontalis Gyll.
-Magdalis duplicata Germ.
-Magdalis armigera Geoffr. (=aterrima L.)
-Magdalis carbonaria L.
-Magdalis cerasi L.
-Magdalis exarata Bris.
-Magdalis barbicornis Latr.
-Magdalis nitidipennis Boh.
-Magdalis ruficornis L.
-Magdalis flavicornis Gyll.
+#### Pissodes piceae Illig.
+#### Pissodes notatus F.
+#### Pissodes pini L.
+#### Pissodes piniphilus Hbst.
 
+#### Magdalis memnonia Gyll.
+#### Magdalis linearis Gyll.
+#### Magdalis phlegmatica Hbst.
+#### Magdalis rufa Goeze
+#### Magdalis nitida Gyll.
+#### Magdalis violacea L.
+#### Magdalis frontalis Gyll.
+#### Magdalis duplicata Germ.
+#### Magdalis armigera Geoffr. (=aterrima L.)
+#### Magdalis carbonaria L.
+#### Magdalis cerasi L.
+#### Magdalis exarata Bris.
+#### Magdalis barbicornis Latr.
+#### Magdalis nitidipennis Boh.
+#### Magdalis ruficornis L.
+#### Magdalis flavicornis Gyll.
 
 ### Trachodinae
-Trachodes hispidus L.
+
+#### Trachodes hispidus L.
 
 ### Hylobiinae
-Hylobius abietis L.
-Hylobius transversovittatus Geoze (=fatuus Rossi.)
 
-Lepyrus palustris Scop (=colon L.)
-Lapyrus capucinus Schall.
+#### Hylobius abietis L.
+#### Hylobius transversovittatus Geoze (=fatuus Rossi.)
 
-Liparus dirus Hbst.
-Liparus germanus L.
-Liparus coronatus Goeze.
+#### Lepyrus palustris Scop (=colon L.)
+#### Lapyrus capucinus Schall.
 
-Liosoma deflexum Panz (=ovatulum Clairv.)
+#### Liparus dirus Hbst.
+#### Liparus germanus L.
+#### Liparus coronatus Goeze.
 
-Epipolaeus coliginaeus F.
+#### Liosoma deflexum Panz (=ovatulum Clairv.)
 
-Adexius scrobipennis Gyll.
+#### Epipolaeus coliginaeus F.
 
-Alophus triguttatus F.
+#### Adexius scrobipennis Gyll.
 
-Hypera tesselate Hbst.
+#### Alophus triguttatus F.
 
-Phytonomus punctatus F.
-Phytonomus fasciculatus Hbst.
-Phytonomus adspersus F. (=pollux F.)
-Phytonomus adspersus v. alternans Steph.
-Phytonomus rumicis L.
-Phytonomus meles F.
-Phytonomus ononidis Chevr.
-Phytonomus nigrirostris F.
-Phytonomus arator L. (=polygoni L.)
-Phytonomus pedestris Payk.
-Phytonomus elongatus Payk.
-Phytonomus pantaginis Deg.
-Phytonomus murinus F.
-Phytonomus variabilis Hbst.
-Phytonomus viciae Gyll.
-Phytonomus trilineatus Marsh.
+#### Hypera tesselate Hbst.
 
-Limobius borealis Payk.
+#### Phytonomus punctatus F.
+#### Phytonomus fasciculatus Hbst.
+#### Phytonomus adspersus F. (=pollux F.)
+#### Phytonomus adspersus v. alternans Steph.
+#### Phytonomus rumicis L.
+#### Phytonomus meles F.
+#### Phytonomus ononidis Chevr.
+#### Phytonomus nigrirostris F.
+#### Phytonomus arator L. (=polygoni L.)
+#### Phytonomus pedestris Payk.
+#### Phytonomus elongatus Payk.
+#### Phytonomus pantaginis Deg.
+#### Phytonomus murinus F.
+#### Phytonomus variabilis Hbst.
+#### Phytonomus viciae Gyll.
+#### Phytonomus trilineatus Marsh.
+
+#### Limobius borealis Payk.
 
 ### Rhytirrhininae
-Gronops lunatus F.
+#### Gronops lunatus F.
 
 ### Calandrinae
-Sphenophorus striatopunctatus Geoze
+
+#### Sphenophorus striatopunctatus Geoze
 
 Calandra granaria L.
 Calandra orycae L.
 
 ### Cryptorrhynchinae
-Camptorrhyinus statua Rossi.
+#### Camptorrhyinus statua Rossi.
 
-Cryptorrhynchidius lapathi L.
+#### Cryptorrhynchidius lapathi L.
 
-Acalles roboris Curt.
-Acalles camelus f.
-Acalles ptinoides Marsh.
-Acalles turbatus Boh.
-Acalles lemur Germ.
-Acalles echinatus Germ.
+#### Acalles roboris Curt.
+#### Acalles camelus f.
+#### Acalles ptinoides Marsh.
+#### Acalles turbatus Boh.
+#### Acalles lemur Germ.
+#### Acalles echinatus Germ.
 
-Echinodera hypocrita Boh.
+#### Echinodera hypocrita Boh.
 
 
 ### Ceutorrhynchindae
