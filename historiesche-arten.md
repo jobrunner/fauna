@@ -4,7 +4,7 @@ Unkritisch übernommen aus:
 
 - [X] Fröhlich, 1897[^1]
 - [X] Singer, 1955[^2]
-- [ ] Gläßel, 1956[^3]
+- [X] Gläßel, 1956[^3]
 - [ ] Elbert, 1969[^4]
 - [ ] Elbert, 1994[^5]
 - [ ] Löbel & Smetana, 2013 [^6]
@@ -205,6 +205,16 @@ Quelle: Singer (bei demselben verwendete Namen)
 #### Phyllobius calcaratus F. (=glaucus Scop.)
 #### Phyllobius urticae Deg.
 
+#### Phyllobius colcoratus F. a. pseudodentalus Rtt. Lohr
+Quelle: Gläßel
+
+#### Phyllobius calcaratus F. a. densatus Schils. Lohr
+Quelle: Gläßel
+
+#### Phyllobius piri L. a. mali Gyll. Lohr
+Quelle: Gläßel
+
+
 ### Brachyderinae
 #### Polydrosus impar Gozis.
 #### Polydrosus marginatus Steph.
@@ -217,10 +227,14 @@ Quelle: Singer (bei demselben verwendete Namen)
 #### Polydrosus undatus F. (=teretricollis Bonsd.)
 #### Polydrosus sericeus Schall.
 #### Polydrosus mollis Stroem. (=micans)
+#### Polydrosus cervinus L. a. melanotus Steph.
+Quelle: Gläßel
 
 #### Scythopus mustela Hbst.
 
 #### Liophloeus tesselatus Müll.
+#### Liophloeus Herbsti Gyll. v. Schmidti Boh. See 
+Quelle: Gläßel
 
 #### Eusomus ovulum Germ.
 
@@ -228,6 +242,8 @@ Quelle: Singer (bei demselben verwendete Namen)
 
 #### Brachysomus hirtus Boh.
 #### Brachysomus echinatus Bonsd.
+#### Brachysomus villosulus Germ. See
+Quelle: Gläßel
 
 #### Foucartia squamulata Hbst.
 
@@ -256,6 +272,9 @@ Quelle: Singer (bei demselben verwendete Namen)
 #### Sitona lineatus L.
 #### Sitona suturalis Steph.
 #### Sitona sulcifrons Thunbg.
+#### Sitona sulcifrons Thbg. a. campestris Oliv. R
+Quelle: Gläßel
+
 #### Sitona puncticollis Steph.
 #### Sitona flavenscens Marsh.
 #### Sitona Waterhousei Woll.
@@ -264,6 +283,7 @@ Quelle: Singer (bei demselben verwendete Namen)
 #### Sitona humeralis Steph.
 #### Sitona cylindricollis F.
 #### Sitona inops Gyll.
+
 
 ### Tanymecinae
 
@@ -338,6 +358,8 @@ Quelle: Singer (bei demselben verwendete Namen)
 #### Bagous lutosus Gyll.
 #### Bagous lutulentus Gyll.
 #### Bagous glabrirostris Hbst.
+#### Bagous nodulosus Gyll. See
+Quelle: Gläßel
 
 #### Hydronomus alismatis Marsh.
 
@@ -381,7 +403,9 @@ Quelle: Singer (bei demselben verwendete Namen)
 
 #### Smicronyx jungermanniae Reich.
 
+
 ### Curculionidae
+
 #### Elleschus scanicus Payk.
 #### Elleschus bipunctatus L.
 #### Elleschus infimus Hbst.
@@ -428,6 +452,7 @@ Quelle: Singer (bei demselben verwendete Namen)
 
 #### Brachonyx pineti Payk.
 
+
 ### Tychiinae
 
 #### Curculio elephas Gyll.
@@ -441,6 +466,7 @@ Quelle: Singer (bei demselben verwendete Namen)
 #### Curculio crux F.
 #### Curculio salicivorus Payk.
 #### Curculio pyrrhoceras Marsh.
+
 
 ### Pissondinae
 
@@ -466,9 +492,11 @@ Quelle: Singer (bei demselben verwendete Namen)
 #### Magdalis ruficornis L.
 #### Magdalis flavicornis Gyll.
 
+
 ### Trachodinae
 
 #### Trachodes hispidus L.
+
 
 ### Hylobiinae
 
@@ -511,17 +539,22 @@ Quelle: Singer (bei demselben verwendete Namen)
 
 #### Limobius borealis Payk.
 
+
 ### Rhytirrhininae
+
 #### Gronops lunatus F.
+
 
 ### Calandrinae
 
 #### Sphenophorus striatopunctatus Geoze
 
-Calandra granaria L.
-Calandra orycae L.
+#### Calandra granaria L.
+#### Calandra orycae L.
+
 
 ### Cryptorrhynchinae
+
 #### Camptorrhyinus statua Rossi.
 
 #### Cryptorrhynchidius lapathi L.
@@ -537,6 +570,7 @@ Calandra orycae L.
 
 
 ### Ceutorrhynchindae
+
 #### Baris artemisiae Hbst.
 #### Baris morio Boh.
 #### Baris laticollis Marsh.
@@ -669,9 +703,12 @@ Calandra orycae L.
 
 #### Stenocarus fuliginosus Marsh.
 #### Stenocarus cardui Hbst.
+
 #### Cidnorrhynus quadrimaculatus L.
 
+
 ### Mecininae
+
 #### Nonophyes circumscriptus Aubé
 #### Nonophyes hemisphaericus Oliv.
 #### Nonophyes hemisphaericus ab. ulmi Germ.
@@ -704,6 +741,9 @@ Calandra orycae L.
 #### Miarus campanulae L.
 
 #### Cionus tuberculosus Scop (=verbasci F.)
+#### Cionus tuberculosus Scop. a. suturalis Scop. 
+Quelle: Gläßel
+
 #### Cionus scrophulariae L.
 #### Cionus hortulanus Fourer.
 #### Cionus thapsi F.
@@ -716,7 +756,9 @@ Calandra orycae L.
 #### Anoplus plantaris Naezen.
 #### Anoplus roboris Suffr.
 
-#### ### Rhynchaeninae
+
+### Rhynchaeninae
+
 #### Rhynchaenus quercus L.
 #### Rhynchaenus pilosus F.
 #### Rhynchaenus erythropus Germ.
@@ -737,18 +779,6 @@ Calandra orycae L.
 
 
 
-
-
-## Gläßel, Ergänzungen zu Singer (1956):
-#### Phyllobius colcoratus F. a. pseudodentalus Rtt. Lohr
-#### Phyllobius calcaratus F. a. densatus Schils. Lohr
-#### Phyllobius piri L. a. mali Gyll. Lohr
-#### Polydrosus cervinus L. a. melanotus Steph.
-#### Brachysomus villosulus Germ. See
-#### Sitono sulcifrons Thbg. a. campestris Oliv. R
-#### Liophloeus llerbsti Gyll. v. Schmidti Boh. See 
-#### Bagous nodulosus Gyll. See
-#### Cionus tuberculosus Scop. a. suturalis Scop. 
 
 
 
