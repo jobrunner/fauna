@@ -170,9 +170,9 @@ Quelle: Singer (bei demselben verwendete Namen)
 #### Apion cruentatum Walt.
 Elbert 69 (Dö)
 #### Apion curtisi Steph.
-Elbert 69 (S)!
+Elbert 1969 (S)!
 #### Apion lanigerum Germ.
-Elbert 69 (S)!
+Elbert 1969 (S)!
 
 
 
@@ -189,10 +189,10 @@ Elbert 69 (S)!
 #### Otiorrhynchus ovatus L.
 #### Otiorrhynchus ligustici L.
 #### Otiorrhynchus laevigatus F
-Elbert 69 (S)! Wo hat Elbert falsch (nur Name, Tier ja) abgeschrieben?
+Elbert 1969 (S)! Wo hat Elbert falsch (nur Name, Tier ja) abgeschrieben?
 
 #### Otiorryhnchus subdentatus Bach.
-Elbert 69 (S)!
+Elbert 1969 (S)!
 
 
 #### Peritelus hirticornis Hbst.
@@ -206,7 +206,7 @@ Elbert 69 (S)!
 #### Trachyphloeus Oliveri Bedel (=spinosus Geoze.)
 
 #### Mylacus rotundatus F.
-Elbert 69 fügt ihn als Mylacus rotundatum F. (Ser, Dö, S) hinzu
+Elbert 1969 fügt ihn als Mylacus rotundatum F. (Ser, Dö, S) hinzu
 
 
 #### Omias concinnus Boh.
@@ -236,10 +236,10 @@ Quelle: Gläßel
 Quelle: Gläßel
 
 #### Phyllobius arborator Hbst.
-Elbert 69  (Oe, Dö)
+Elbert 1969  (Oe, Dö)
 
 #### Phyllobius impressifrons Gyll.
-Elbert 69
+Elbert 1969
 
 
 ### Brachyderinae
