@@ -202,13 +202,65 @@ Apion (Protapion Schy.) dissimile Germ.
 #### Phyllobius calcaratus F. (=glaucus Scop.)
 #### Phyllobius urticae Deg.
 
+### Brachyderinae
+Polydrosus impar Gozis.
+Polydrosus marginatus Steph.
+Polydrosus atomarius Oliv.
+Polydrosus pterygomalis Boh.
+Polydrosus flavipes Deg.
+Polydrosus cervinus L.
+Polydrosus pilosus Gredler.
+Polydrosus confluence Steph.
+Polydrosus undatus F. (=teretricollis Bonsd.)
+Polydrosus sericeus Schall.
+Polydrosus mollis Stroem. (=micans)
 
+Scythopus mustela Hbst.
 
+Liophloeus tesselatus Müll.
 
+Eusomus ovulum Germ.
 
+Sciaphilus asperatus Bonsd.
 
+Brachysomus hirtus Boh.
+Brachysomus echinatus Bonsd.
 
+Foucartia squamulata Hbst.
 
+Barypithes araneiformis Schrank.
+Barypithes pellucidus Boh.
+Barypithes mollicomus Ahr.
+Barypithes tener Boh.
+
+Brachyderes incanus L.
+
+Stophosomus melanogrammus Forst
+Stophosomus rufipes Steph.
+Stophosomus faber Hbst.
+
+Cneorrhinus plagiatus Schall.
+
+Barynotus obscurus F.
+
+Sitona gressorius F.
+Sitona intermedius Küst.
+Sitona griseus F.
+Sitona cambricus Steph.
+Sitona regensteinensis Hbst.
+Sitona tibialis Hbst.
+Sitona languidus Gyll. (=Flecki Csiki)
+Sitona lineatus L.
+Sitona suturalis Steph.
+Sitona sulcifrons Thunbg.
+Sitona puncticollis Steph.
+Sitona flavenscens Marsh.
+Sitona Waterhousei Woll.
+Sitona crinitus Hbst.
+Sitona hispidulus F.
+Sitona humeralis Steph.
+Sitona cylindricollis F.
+Sitona inops Gyll.
 
 
 
