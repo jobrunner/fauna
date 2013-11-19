@@ -14,11 +14,15 @@ Bemerkung: Die Fundangaben bei Fröhlich sind alle Samt ohne die originalen Bele
 
 Quelle: Singer (bei demselben verwendete Namen)
 
+
 ### Rhynchitidae
 
 #### Nemonyx lepturoides F.
+
 #### Rhinomacer attelaboides F.
+
 #### Diodyrrhynchus austriacus Oliv.
+
 #### Lasiorrhynchites sericeus Hrbs.
 #### Lasiorrhynchites cavifrons Gyll.
 #### Lasiorrhynchites olivaceus Gyll.
