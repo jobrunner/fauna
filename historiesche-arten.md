@@ -160,7 +160,7 @@ Apion (Protapion Schy.) ononicola Bach.
 Apion (Protapion Schy.) dissimile Germ.
 
 
-### Otiorhynchinae
+### Otiorrhynchinae
 #### Otiorrhynchus laevigatus F.
 #### Otiorrhynchus raucus F.
 #### Otiorrhynchus porcatus Hbst.
