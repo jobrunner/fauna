@@ -262,6 +262,485 @@ Sitona humeralis Steph.
 Sitona cylindricollis F.
 Sitona inops Gyll.
 
+### Tanymecinae
+
+#### Chlorophanus viridis L.
+
+#### Tanymecus palliatus F.
+
+### Leptiopinae
+
+#### Tropiphorus carinatus Müll.
+
+### Cleoninae
+#### Larinus planus F.
+#### Larinus sturnus Schall.
+#### Larinus jaceae F.
+#### Larinus turbinatus Gyll.
+#### Larinus obtusus Gyll.
+
+Rhinocyllus conicus Froelich.
+
+Lixus paraplecticus L.
+Lixus myagri Oliv
+Lixus subtilis Sturm.
+Lixus ascanii L. 
+Lixus algirus L. (=angustatus F.)
+Lixus bardanae F. (cylindricus Hbst.)
+Lixus punctiventris Boh.
+Lixus elongatus Geoze
+
+Coniocleonus glaucus F.
+Coniocleonus nebulosus L.
+Coniocleonus nigrosuturalis Goeze
+
+Mecaspis alternans Hbst.
+Mecaspis caesus Gyll.
+
+Chromoderus fasciatus Müll.
+
+Leucosomus pedestris Poda
+
+Pseudocleaonus cinereus Schrnk.
+Pseudocleaonus grammicus Panz.
+
+Cyphocleonus tigrinus Panz.
+Cyphocleonus trisulcatus Hbst.
+Cyphocleonus piger Scop.
+
+### Cossoninae
+Dryophthorus corticalis Payk.
+
+Cossonus parallelepipedus Hbst.
+Cossonus linearis F.
+Cossonus cylindricus Sahlbg.
+
+Eremotes ater L.
+Eremotes punctulatus Boh.
+Eremotes reflexus Boh.
+Eremotes (Brachytemnus Woll.) percatus Germ.
+
+Rhyncolus (Hexarrthrus Woll.) culinaris Germ.
+Rhyncolus (Stereocorynes Woll.) truncorum Germ.
+Rhyncolus lignarius Marsh.
+
+### Bagoinae
+Bagous cylindrus Payk.
+Bagous limosus Gyll.
+Bagous subcarinatus Bris.
+Bagous collignensis Hbst.
+Bagous frit Hbst.
+Bagous lutulosus Gyll.
+Bagous diglyptus Boh.
+Bagous lutosus Gyll.
+Bagous lutulentus Gyll.
+Bagous glabrirostris Hbst.
+
+Hydronomus alismatis Marsh.
+
+### Tanysphyrinae
+Tanysphyrus lemnae Payk.
+
+Notaris scirpi F.
+Notaris acridulus L.
+
+Dorytomus taeniatus F.
+Dorytomus Dejeani Faust.
+Dorytomus affinis Payk.
+Dorytomus salicis Walton.
+Dorytomus validirostris Gyll.
+Dorytomus minutus Gyll.
+Dorytomus flavipes Panz.
+Dorytomus Schoenherri Faust
+Dorytomus longimanus Forst.
+Dorytomus tremulae Payk.
+Dorytomus tortrix L.
+Dorytomus filirostris Gyll.
+Dorytomus hirtipennis Bedel.
+Dorytomus melanophthalmus Payk.
+Dorytomus rufulus Bedel (=pectoralis Gyll.)
+Dorytomus villosulus Gyll.
+Dorytomus majalis Payk.
+Dorytomus dorsalis F.
+Dorytomus salicinus Gyll.
+
+Thryogenes Nereis Payk.
+Thryogenes festucae Hbst.
+Thryogenes scirrhosus Gyll.
+
+Grypus equisiti F.
+Grypus brunneirostris F.
+
+Pseudostyphlus pilumnus Gyll.
+
+Orthochaetes setiger
+
+Smicronyx jungermanniae Reich.
+
+### Curculionidae
+Elleschus scanicus Payk.
+Elleschus bipunctatus L.
+Elleschus infimus Hbst.
+
+Acalytputs carpini Hbst.
+
+Lignyodes ecucleator Panz.
+
+Acromius quinquepunctatus L.
+
+Tychius polylineatus Germ.
+Tychius Schneideri Hbst.
+Tychius venustus F.
+Tychius junceus Reich.
+Tychius medicaginis Bris.
+Tychius haematopus Gyll.
+Tychius tomentosus Hbst.
+Tychius meliloti Steph.
+Tychius lineatulus Steph.
+
+Microtrogus picirostris F.
+
+Sibinia primita Hbst.
+Sibinia vittata Germ.
+Sibinia pellucens Scop.
+Sibinia viscariae L.
+Sibinia potentilae Germ.
+
+Anthonomus rubripes Gyll.
+Anthonomus varians Payk.
+Anthonomus pubescens Payk.
+Anthonomus rubi Hbst.
+Anthonomus pyri Kollar
+Anthonomus pomorum L.
+Anthonomus humeralis Panz.
+Anthonomus spilotus Redt.
+Anthonomus inversus Bedel.
+Anthonomus pedicularis L.
+Anthonomus rufus Gyll.
+
+Furcipes rectirostris L.
+
+Bradybatus elongatulus Boh.
+
+Brachonyx pineti Payk.
+
+### Tychiinae
+Curculio elephas Gyll.
+Curculio pellitus Boh.
+Curculio venosus Grav.
+Curculio villosus F.
+Curculio nucum L.
+Curculio glandium Marsh.
+Curculio cerasorum Hbst.
+Curculio rubidus Gyll.
+Curculio crux F.
+Curculio salicivorus Payk.
+Curculio pyrrhoceras Marsh.
+
+### Pissondinae
+Pissodes piceae Illig.
+Pissodes notatus F.
+Pissodes pini L.
+Pissodes piniphilus Hbst.
+
+Magdalis memnonia Gyll.
+Magdalis linearis Gyll.
+Magdalis phlegmatica Hbst.
+Magdalis rufa Goeze
+Magdalis nitida Gyll.
+Magdalis violacea L.
+Magdalis frontalis Gyll.
+Magdalis duplicata Germ.
+Magdalis armigera Geoffr. (=aterrima L.)
+Magdalis carbonaria L.
+Magdalis cerasi L.
+Magdalis exarata Bris.
+Magdalis barbicornis Latr.
+Magdalis nitidipennis Boh.
+Magdalis ruficornis L.
+Magdalis flavicornis Gyll.
+
+
+### Trachodinae
+Trachodes hispidus L.
+
+### Hylobiinae
+Hylobius abietis L.
+Hylobius transversovittatus Geoze (=fatuus Rossi.)
+
+Lepyrus palustris Scop (=colon L.)
+Lapyrus capucinus Schall.
+
+Liparus dirus Hbst.
+Liparus germanus L.
+Liparus coronatus Goeze.
+
+Liosoma deflexum Panz (=ovatulum Clairv.)
+
+Epipolaeus coliginaeus F.
+
+Adexius scrobipennis Gyll.
+
+Alophus triguttatus F.
+
+Hypera tesselate Hbst.
+
+Phytonomus punctatus F.
+Phytonomus fasciculatus Hbst.
+Phytonomus adspersus F. (=pollux F.)
+Phytonomus adspersus v. alternans Steph.
+Phytonomus rumicis L.
+Phytonomus meles F.
+Phytonomus ononidis Chevr.
+Phytonomus nigrirostris F.
+Phytonomus arator L. (=polygoni L.)
+Phytonomus pedestris Payk.
+Phytonomus elongatus Payk.
+Phytonomus pantaginis Deg.
+Phytonomus murinus F.
+Phytonomus variabilis Hbst.
+Phytonomus viciae Gyll.
+Phytonomus trilineatus Marsh.
+
+Limobius borealis Payk.
+
+### Rhytirrhininae
+Gronops lunatus F.
+
+### Calandrinae
+Sphenophorus striatopunctatus Geoze
+
+Calandra granaria L.
+Calandra orycae L.
+
+### Cryptorrhynchinae
+Camptorrhyinus statua Rossi.
+
+Cryptorrhynchidius lapathi L.
+
+Acalles roboris Curt.
+Acalles camelus f.
+Acalles ptinoides Marsh.
+Acalles turbatus Boh.
+Acalles lemur Germ.
+Acalles echinatus Germ.
+
+Echinodera hypocrita Boh.
+
+
+### Ceutorrhynchindae
+Baris artemisiae Hbst.
+Baris morio Boh.
+Baris laticollis Marsh.
+Baris cuprirostris F.
+Baris lepidii Germ.
+Baris coerulescens Scop.
+Baris fallax Bris.
+Baris picicornis Marsh.
+Baris chlorizans Germ.
+
+Limnobaris T-album L.
+Limnobaris philistrata Steph.
+Limnobaris Reitteri Munst.
+
+Coryssomerus capucinus Beck.
+
+Mononychus punctum album Hbst. (=seidocori F.
+
+Phytobius comari Hbst.
+Phytobius Waltoni Boh.
+Phytobius canaliculatus Fahrs.
+Phytobius quadrituberculatus F.
+Phytobius velaris Gyll.
+Phytobius quadricornis Gyll.
+
+Heterophytobius muricatus Bris.
+Heterophytobius quadrinodosus Gyll.
+Heterophytobius albicinctus Gyll.
+Heterophytobius perpendicularis Reich.
+Heterophytobius inconspectus Hbst. (=gramineus F.)
+Heterophytobius pericarpius L.
+Heterophytobius bruchoides Hbst.
+Heterophytobius bosnicus Schultze
+Heterophytobius castor F.
+
+Rhytidosomus globulus Hbst.
+Rhytidosomus fallax Otto
+
+Amalus haemorrhous Hbst.
+
+Drupenatus nasturtii Germ.
+
+Poophagus sisymbrii F.
+
+Tapinotus sellatus F.
+
+Orobitis eyaneus L.
+
+Coeliodes rubicundus Hbst.
+Coeliodes nigritarsis Hartmann
+Coeliodes draydos Gmel. (=quercus F.)
+Coeliodes ruber Marsh.
+Coeliodes cinctus Geoffr. (=erythroleucus Gmel.)
+
+Thamioculus viduatus Gyll.
+Thamioculus signatus Gyll.
+
+Micrelus eicae Gyll.
+
+Coeliastes lamii F.
+
+Zacladus exiguus Oliv.
+Zacladus affinis Payk.
+
+Cnemogonus epilobii Payk.
+
+Phrydiuchus topiarius Germ.
+
+Ceuthorhynchus scapularis Gyll.
+Ceuthorhynchus cochleariae Gyll.
+Ceuthorhynchus constricus Marsh.
+Ceuthorhynchus contractus Marsh.
+Ceuthorhynchus erysimi F.
+Ceuthorhynchus viridanus Gyll.
+Ceuthorhynchus ignitus Germ.
+Ceuthorhynchus Leprieuri Bris.
+Ceuthorhynchus chalybaeus Germ.
+Ceuthorhynchus hirtulus Germ.
+Ceuthorhynchus griseus Bris.
+Ceuthorhynchus sulcicollis Payk.
+Ceuthorhynchus atomus Boh.
+Ceuthorhynchus picitarsis Gyll.
+Ceuthorhynchus quadridens Panz.
+Ceuthorhynchus pleurostigma Marsh.
+Ceuthorhynchus Roberti Gyll.
+Ceuthorhynchus napi Gyll.
+Ceuthorhynchus rapae Gyll.
+Ceuthorhynchus assimilis Payk.
+Ceuthorhynchus nanus Gyll.
+Ceuthorhynchus inaffectatus Gyll.
+Ceuthorhynchus syrites Germ.
+Ceuthorhynchus rusticus Gyll.
+Ceuthorhynchus suturalis F.
+Ceuthorhynchus denticulatus Rttr.
+Ceuthorhynchus pollinarius Forst.
+Ceuthorhynchus macula alba Hbst.
+Ceuthorhynchus marginatus Payk.
+Ceuthorhynchus punctiger Gyll.
+Ceuthorhynchus arquatus Hbst.
+Ceuthorhynchus angulosus Boh.
+Ceuthorhynchus melanostictus Marsh.
+Ceuthorhynchus rugulosus Hbst.
+Ceuthorhynchus chrysanthemi Germ.
+Ceuthorhynchus millefolii Schultes
+Ceuthorhynchus campestris Gyll.
+Ceuthorhynchus trimaculatus F.
+Ceuthorhynchus euphorbiae Bris.
+Ceuthorhynchus austriacus Bris.
+Ceuthorhynchus abbreviatulus F.
+Ceuthorhynchus albosignatus Gyll.
+Ceuthorhynchus asperifoliarum Gyll.
+Ceuthorhynchus crucifer Oliv.
+Ceuthorhynchus symphyti Bed.
+Ceuthorhynchus geographicus Goeze.
+
+Neosirocalus posthumus Germ.
+Neosirocalus floralis Payk.
+Neosirocalus pulinatus Gyll.
+Neosirocalus pyrrhorhynchus Marsh.
+
+Serocalodes nigrinus Marsh.
+Serocalodes quericola Payk.
+
+Calosiris terminatus Hbst.
+
+Ceuthorrhynchidius troglodytes F.
+Ceuthorrhynchidius rufulus Duf.
+Ceuthorrhynchidius Barnevillei Grén.
+Ceuthorrhynchidius hiridus Panz.
+
+Stenocarus fuliginosus Marsh.
+Stenocarus cardui Hbst.
+Cidnorrhynus quadrimaculatus L.
+
+### Mecininae
+Nonophyes circumscriptus Aubé
+Nonophyes hemisphaericus Oliv.
+Nonophyes hemisphaericus ab. ulmi Germ.
+Nonophyes globulus Germ.
+Nonophyes marmoratus Goeze (lythri F.)
+
+Mecinus collaris Germ.
+Mecinus janthinus Germ.
+Mecinus pyraster Hbst.
+
+Gymnetron labile Hbst.
+Gymnetron rostellum Hbst.
+Gymnetron stimulosum Germ.
+Gymnetron melanarium Germ.
+Gymnetron villosulum Gyll.
+Gymnetron beccabungae L.
+Gymnetron veronicae Germ.
+Gymnetron asellus Grav.
+Gymnetron tetrum F.
+Gymnetron antirrhini Germ. (=noctis Hbst.)
+Gymnetron hispidum Brullé (=pilosum Gyll.)
+Gymnetron melas Boh.
+Gymnetron netum Germ.
+Gymnetron thapsicola Germ.
+Gymnetron collinum Gyll.
+Gymnetron linariae Panz.
+
+Miarus graminis Gyll.
+Miarus planatrum Germ.
+Miarus campanulae L.
+
+Cionus tuberculosus Scop (=verbasci F.)
+Cionus scrophulariae L.
+Cionus hortulanus Fourer.
+Cionus thapsi F.
+Cionus Oliveri Rosensch.
+Cionus alauda Hbst.
+Cionus pulchellus Hbst.
+Cionus solani F.
+Cionus fraxini Deg.
+
+Anoplus plantaris Naezen.
+Anoplus roboris Suffr.
+
+### Rhynchaeninae
+Rhynchaenus quercus L.
+Rhynchaenus pilosus F.
+Rhynchaenus erythropus Germ.
+Rhynchaenus jota F.
+Rhynchaenus fagi L.
+Rhynchaenus testaceus Müll.
+Rhynchaenus testaceus v. pubescens Steph
+Rhynchaenus lonicerae Hbst.
+Rhynchaenus rusci Hbst.
+Rhynchaenus avellanae Donov.
+Rhynchaenus (Pseudorchestes Schönherr) decoratus Germ.
+Rhynchaenus rufitarsis Germ.
+Rhynchaenus salicis L.
+Rhynchaenus stigma Germ.
+Rhynchaenus populi F.
+Rhynchaenus foliorum Müll.
+Rhynchaenus pulicarius Hbst.
+
+
+
+
+
+## Gläßel, Ergänzungen zu Singer (1956):
+#### Phyllobius colcoratus F. a. pseudodentalus Rtt. Lohr
+#### Phyllobius calcaratus F. a. densatus Schils. Lohr
+#### Phyllobius piri L. a. mali Gyll. Lohr
+#### Polydrosus cervinus L. a. melanotus Steph.
+#### Brachysomus villosulus Germ. See
+#### Sitono sulcifrons Thbg. a. campestris Oliv. R
+#### Liophloeus llerbsti Gyll. v. Schmidti Boh. See 
+#### Bagous nodulosus Gyll. See
+#### Cionus tuberculosus Scop. a. suturalis Scop. 
 
 
 
